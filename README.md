@@ -51,15 +51,12 @@ Welcome to my repository! This is a documentation of my learning path from a beg
    ```bash
    git clone [https://github.com/manavmerja/My-AI-Journey.git](https://github.com/manavmerja/My-AI-Journey.git)
 
-
-   Install dependencies:
-
-Bash
-
+2. Install dependencies:
 pip install numpy pandas matplotlib scikit-learn
-Run Jupyter Lab to explore notebooks.
+
+3. Run Jupyter Lab to explore notebooks.    
 
 👨‍💻 Author
 Manav Merja Documenting my journey into the world of AI.
 
-Last Updated: November 2025
+Last Updated: December 2025
