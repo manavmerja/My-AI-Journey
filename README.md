@@ -3,8 +3,7 @@
 Welcome to my repository! This is a documentation of my learning path from a beginner to an AI/ML Engineer. Here I upload code snippets, assignments, and projects as I master new concepts.
 
 ## 🚦 Current Progress
-![Progress](https://progress-bar.dev/20/?title=Completed&width=600)
-
+![Progress](https://img.shields.io/badge/Progress-20%25_Completed-success?style=for-the-badge&logo=target)
 ---
 
 ## 🗺️ Learning Roadmap
