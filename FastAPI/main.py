@@ -6,6 +6,8 @@ import uvicorn
 
 app = FastAPI()
 
+SECRET_TOKEN = "supersecret123"
+
 
 class ModelName(str, Enum):
     alexnet = "alexnet"
@@ -75,10 +77,14 @@ async def read_multiple_items(q: Annotated[list[str] | None, Query()] = None):
     return query_items
 
 
-@app.get("/headers/")
-async def read_headers(user_agent: Annotated[str | None, Header()] = None):
-    # FastAPI automatically converts 'user_agent' to 'User-Agent'
     return {"User-Agent": user_agent}
+
+
+@app.get("/protected/")
+async def read_protected_data(x_token: Annotated[str | None, Header()] = None):
+    if x_token != SECRET_TOKEN:
+        raise HTTPException(status_code=403, detail="Invalid or missing X-Token")
+    return {"message": "You are authorized!", "secret_data": "FastAPI is awesome!"}
 
 
 @app.put("/items/{item_id}")
