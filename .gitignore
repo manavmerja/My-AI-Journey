@@ -6,3 +6,7 @@ anaconda_projects/
 
 __pycache__/
 *.db
+.env
+.env.local
+.venv/
+venv/
