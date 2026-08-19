@@ -69,6 +69,7 @@ Install dependencies:
 
 Bash
 
+
 pip install numpy pandas matplotlib scikit-learn tensorflow torch transformers
 
-Run Jupyter Lab/Notebook to explore the code.
+Run Jupyter Lab/Notebook to explore the code.  
