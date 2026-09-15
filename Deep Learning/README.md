@@ -9,7 +9,3 @@ In this module, I am moving beyond traditional Machine Learning to build systems
 | **2. ANN** | ⏳ Upcoming | Artificial Neural Networks (Connecting neurons). |
 | **3. CNN** | ⏳ Upcoming | Convolutional Neural Networks (For Images/Vision). |
 | **4. RNN & LSTM** | ⏳ Upcoming | Recurrent Neural Networks (For Text/Sequence). |
-
-### 🛠️ Tools
-* **TensorFlow** & **Keras**
-* **Google Colab / Jupyter**
