@@ -23,7 +23,7 @@ I am a passionate Computer Engineering student on a mission to master the art of
 
 ---
 
-### 🏆 Level-wise Progression
+### 🏆 Level-wise Progressions
 
 | Level | Module | Status | Tech Stack |
 | :--- | :--- | :---: | :--- |
@@ -73,3 +73,5 @@ Bash
 pip install numpy pandas matplotlib scikit-learn tensorflow torch transformers
 
 Run Jupyter Lab/Notebook to explore the code.  
+
+
