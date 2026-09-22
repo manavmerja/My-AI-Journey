@@ -23,19 +23,6 @@ I am a passionate Computer Engineering student on a mission to master the art of
 
 ---
 
-### 🏆 Level-wise Progressions
-
-| Level | Module | Status | Tech Stack |
-| :--- | :--- | :---: | :--- |
-| **Level 1** | **Foundations** (Python, NumPy, Pandas) | ![Done](https://img.shields.io/badge/DONE-Success?style=for-the-badge&logo=python&color=brightgreen) | 🐍 Python |
-| **Level 2** | **Machine Learning** (Regression, Classification) | ![Done](https://img.shields.io/badge/DONE-Success?style=for-the-badge&logo=scikit-learn&color=brightgreen) | 🤖 Scikit-Learn |
-| **Level 3** | **Deep Learning** (CNN, ANN) | ![Done](https://img.shields.io/badge/DONE-Success?style=for-the-badge&logo=tensorflow&color=brightgreen) | 🧠 TensorFlow |
-| **Level 4** | **NLP & Transfer Learning** (BERT, Transformers) | ![Done](https://img.shields.io/badge/DONE-Success?style=for-the-badge&logo=huggingface&color=brightgreen) | 🤗 Hugging Face |
-| **Level 5** | **Generative AI** (RAG, Agents, LLMs) | ![Done](https://img.shields.io/badge/DONE-Success?style=for-the-badge&logo=google-gemini&color=brightgreen) | ✨ Gemini API |
-
-</div>
-
----
 
 ## 🗺️ Detailed Syllabus Covered
 
